@@ -1,7 +1,7 @@
 # 👋🏻 Hey
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-# I am beichen1994. 
+# I am Yuqi Wang. 
 ## I am a PhD student.
 
 - <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=50 height=50>  I know Python and I love to code in Python . I know a bit of machine learning and AI . I can also write crawlers in python<br>
